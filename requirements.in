@@ -1,3 +1,5 @@
 django
 pre-commit
 django-taggit
+django-allauth
+markdown
