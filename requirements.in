@@ -3,3 +3,4 @@ pre-commit
 django-taggit
 django-allauth
 markdown
+psycopg[binary]
